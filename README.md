@@ -24,9 +24,10 @@
 
 <div name="experiences">
     <img height="90rem" alt="Volpix" src="https://volpix.com.br/images/logo.png">
+    <img height="70rem" alt="Ciaopaper" src="https://cnpj.biz/img/logo_cnpj_biz.png"/>
     <img height="70rem" src="https://ciel-it.com/web/image/website/1/logo/CIEL%20IT?unique=abd32f5"/>
     <img height="70rem" src="https://www.orrprotection.com/hubfs/Logos/orr_logo_white.svg"/>
-    <img height="70rem" src="https://cnpj.biz/img/logo_cnpj_biz.png"/>
+    
 
     
 </div>
