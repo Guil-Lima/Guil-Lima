@@ -1,8 +1,8 @@
 ## Welcome, My name is Guilherme Lima Bezerra.
 - 🏢 Software Engineer.
-- 📚 Interesting in Full-Stack Development, API's and DevOps.
+- 📚 Interesting in Full-Stack Development, API and A.I.
 - 📫 Contact:
-    - 📧 Email: nicholascostap@gmail.com
+    - 📧 Email: glblima318@gmail.com
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
 
